@@ -1,6 +1,6 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> MY GITHUB PROFILE</h2></summary>
-   <img align="center" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+   <img align="center" alt="Coding" width="500" height="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
              
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Vedant+!;I'm+a+IOT+Engineer...;And+I'm+a+Full+Stack+Web+Developer+too)](https://www.linkedin.com/in/vedant-yerne-27040628b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
