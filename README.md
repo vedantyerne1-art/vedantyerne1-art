@@ -43,6 +43,17 @@ Email Me 👉 ✉️ **[vedantyerne1@gmail.com](vedantyerne1@gmail.com)** For Co
 </div>
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+ 
+  <a href="https://github.com/vedantyerne1-art/vedantyerne1-art">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
