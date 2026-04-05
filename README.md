@@ -2,7 +2,7 @@
                 width="50" /> MY GITHUB PROFILE</h2></summary>
    <img align="center" alt="Coding" width="600" height="600" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
              
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&lines=Hey+!+It's+Vedant+!;I'm+a+IOT+Engineer...;And+I'm+a+Full+Stack+Web+Developer+too)](https://www.linkedin.com/in/vedant-yerne-27040628b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Hey+!+It's+Vedant+!;I'm+a+IOT+Engineer...;And+I'm+a+Full+Stack+Web+Developer+too)](https://www.linkedin.com/in/vedant-yerne-27040628b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
 
